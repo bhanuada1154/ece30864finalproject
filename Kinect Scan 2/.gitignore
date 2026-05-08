@@ -1,0 +1,29 @@
+# Mesh/scan data (large / generated)
+*.ply
+*.stl
+*.obj
+*.mtl
+
+# Images (often generated thumbnails)
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# FlexScan3D project artifacts / exports
+*.3d3
+Project/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+ENV/
+.Python
+
+# OS/editor clutter
+.DS_Store
+.claude/
+
+
