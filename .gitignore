@@ -26,4 +26,6 @@ ENV/
 .DS_Store
 .claude/
 
-
+# Cursor
+.cursor/
+.cursorignore
